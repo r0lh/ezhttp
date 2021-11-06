@@ -1,7 +1,7 @@
-INSTALL
+# INSTALL
 
-go get -u github.com/r0lh/ezhttp
+`go get -u github.com/r0lh/ezhttp`
 
-USAGE
+# USAGE
 
-ezhttp <port>
+`ezhttp <port>`
